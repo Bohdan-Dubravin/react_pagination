@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Pagination.scss"],"names":[],"mappings":"AAAA,MACE,WAAY,CACZ,aAAc,CACd,2BAA4B,CAC7B,UAGC,cAAe","file":"main.f949e5b0.chunk.css","sourcesContent":[".item {\n  width: 300px;\n  padding: 3px 0;\n  box-shadow: 1px 2px 5px gray;\n}\n\n.clicable {\n  cursor: pointer;\n}\n"]}
